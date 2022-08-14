@@ -8,7 +8,7 @@ This project is designed to test my ability to build complex servers and access 
 
 The following is demonstrated throughout the project:
 
-Installing and use common middleware packages
+Installing and use of common middleware packages
 
 Receiving requests through routes
 
@@ -30,4 +30,4 @@ Returning joined and nested data with Knex
 
 Writing database migrations using Knex's migration tool
 
-Deploying your backend server to a cloud service
+Deploying my backend server to a cloud service
